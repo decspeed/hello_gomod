@@ -15,7 +15,7 @@ vim README.md
 git diff   
 git commit .
 git push  
-https://github.com/decspeed/hello-world/ 
+https://github.com/decspeed/hello_gomod/ 
 new pull request  readme-edit2 had recent pushes 3 minutes ago  [compare and merge]  
 git log --all --decorate --oneline --graph  
 https://nvie.com/posts/a-successful-git-branching-model/  
