@@ -19,3 +19,6 @@ https://github.com/decspeed/hello_gomod/
 new pull request  readme-edit2 had recent pushes 3 minutes ago  [compare and merge]  
 git log --all --decorate --oneline --graph  
 https://nvie.com/posts/a-successful-git-branching-model/  
+
+27/03/2022: Go tutorial next step
+https://go.dev/doc/tutorial/module-conclusion
