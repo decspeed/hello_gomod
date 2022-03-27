@@ -5,7 +5,7 @@ go run .
 
 # For branching. E.g modify README.md in branch
 Branch update and merge
-https://docs.github.com/en/get-started/quickstart/hello-world  
+https://docs.github.com/en/get-started/quickstart/hello_gomod
 Add branch called readme-edits.  
 git branch readme-edit  
 git branch -l  
