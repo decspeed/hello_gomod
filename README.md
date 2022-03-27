@@ -13,6 +13,7 @@ git checkout readme-edit2
 git status  
 vim README.md  
 git diff   
+git commit .
 git push  
 https://github.com/decspeed/hello-world/ 
 new pull request  readme-edit2 had recent pushes 3 minutes ago  [compare and merge]  
